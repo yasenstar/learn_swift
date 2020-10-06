@@ -8,4 +8,4 @@ func changeOne() {
         print(two)
     }
 }
-changeOne.sayTwo
+changeOne
